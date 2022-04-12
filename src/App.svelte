@@ -111,3 +111,13 @@
     </div>
   </section>
 </main>
+
+<style>
+  :global(html.light article:hover) {
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+  }
+
+  :global(html.dark article:hover) {
+    filter: brightness(120%);
+  }
+</style>

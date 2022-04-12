@@ -12,7 +12,7 @@
 </script>
 
 <article
-  class="relative p-8 | flex flex-col items-center text-center | {border} rounded-b dark:bg-blue-gray-800 bg-blue-gray-100">
+  class="relative p-8 | flex flex-col items-center text-center | {border} rounded-b dark:bg-blue-gray-800 bg-blue-gray-100 cursor-pointer">
   <h3 class="sr-only">{socialMedia}</h3>
   <div class="flex items-center gap-2 mb-6">
     <i class="bx bxl-{icon} text-2xl" />

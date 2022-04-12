@@ -8,7 +8,8 @@
   $: iconDirection = isPositive ? 'up' : 'down';
 </script>
 
-<article class="p-8 | flex flex-col gap-3 | dark:bg-blue-gray-800 bg-blue-gray-100 rounded-md">
+<article
+  class="p-8 | flex flex-col gap-3 | dark:bg-blue-gray-800 bg-blue-gray-100 rounded-md cursor-pointer">
   <header class="flex items-center justify-between">
     <h4 class="capitalize font-bold light:text-blue-gray-750">{heading}</h4>
     <i class="bx bxl-{icon} text-2xl" />

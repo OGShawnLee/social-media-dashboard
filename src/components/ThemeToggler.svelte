@@ -10,7 +10,7 @@
 <div class="py-6 | flex items-center justify-between gap-6">
   <span class="text-sm font-bold light:text-blue-gray-750"> {themeText} Mode </span>
   <button
-    class="relative h-8 w-16 | dark:(bg-gradient-to-r from-toggle-blue to-toggle-green) bg-toggle-light rounded-full"
+    class="relative h-8 w-16 | dark:(bg-gradient-to-r from-toggle-blue to-toggle-green) light:hover:(bg-gradient-to-r from-toggle-blue to-toggle-green) bg-toggle-light rounded-full"
     aria-label="Toggle Color Theme"
     aria-describedby="theme-toggler-description"
     title="Toggle Color Theme"
