@@ -1,16 +1,7 @@
 import { defineConfig } from 'windicss/helpers';
 
-function generateSafeList() {
-  const utilities = ['border', 'text'];
-  const values = ['facebook', 'twitter', 'youtube'];
-  return utilities.flatMap((utility) => {
-    return values.map((value) => `${utility}-${value}`);
-  });
-}
-
 export default defineConfig({
   darkMode: 'class',
-  safelist: generateSafeList(),
   theme: {
     colors: {
       'blue-gray': {
