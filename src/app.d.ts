@@ -1,0 +1,1 @@
+type ColorTheme = 'DARK' | 'LIGHT';

@@ -9,6 +9,7 @@ function generateSafeList() {
 }
 
 export default defineConfig({
+  darkMode: 'class',
   safelist: generateSafeList(),
   theme: {
     colors: {
