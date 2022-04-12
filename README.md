@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [To be added](https://your-solution-url.com)
+- Solution URL: [Right here!](https://www.frontendmentor.io/solutions/social-media-dashboard-with-svelte-typescript-and-windicss-Hya2kDX49)
 - Live Site URL: [Deployed on Vercel](https://social-media-dashboard-khaki-xi.vercel.app/)
 
 ## My process
