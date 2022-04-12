@@ -19,7 +19,7 @@
     <span class="text-sm font-bold light:text-blue-gray-750"> {userName}</span>
   </div>
   <div class="flex flex-col gap-2">
-    <b class="text-5xl dark:text-white"> {stat}</b>
+    <b class="text-6xl dark:text-white"> {stat}</b>
     <span class="text-xs uppercase tracking-[0.5rem]"> {statText} </span>
   </div>
   <div class="mt-8 | flex items-center | text-sm font-bold {isPositive ? 'text-lime' : 'text-red'}">
