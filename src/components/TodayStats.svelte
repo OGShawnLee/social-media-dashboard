@@ -3,7 +3,7 @@
 </script>
 
 <section>
-  <h2 class="mb-8 | text-2xl font-bold text-white">Overview - Today</h2>
+  <h2 class="mb-8 | text-2xl font-bold dark:text-white">Overview - Today</h2>
   <div class="grid sm:grid-cols-2 gap-x-12 gap-y-6 children:(grid xl:grid-cols-2 gap-x-12 gap-y-8)">
     <section>
       <h3 class="sr-only">Facebook Stats</h3>
