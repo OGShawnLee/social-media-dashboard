@@ -15,12 +15,12 @@
     aria-describedby="theme-toggler-description"
     title="Toggle Color Theme"
     on:click={theme.toggle}>
-    <p class="sr-only" id="theme-toggler-description">
+    <span class="sr-only" id="theme-toggler-description">
       Toggle Color Theme from dark mode to light mode and viceversa
-    </p>
+    </span>
 
-    <div
-      class="absolute h-6 w-6 min-w-6 | dark:bg-blue-gray-900 bg-white rounded-full | transform animation over-y-center {thumbPosition}" />
+    <span
+      class="absolute h-6 w-6 min-w-6 | block | dark:bg-blue-gray-900 bg-white rounded-full | transform animation over-y-center {thumbPosition}" />
   </button>
 </div>
 

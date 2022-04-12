@@ -3,6 +3,7 @@
 </script>
 
 <section class="grid md:grid-cols-2 xl:grid-cols-4 gap-12">
+    <h2 class="mb-8 | sr-only text-2xl font-bold dark:text-white">All-Time Stats</h2>
     <AllTimeStat
       socialMedia="Facebook"
       icon="facebook-square text-facebook"
